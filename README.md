@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola! Soy Lucas 👋
 
-<!--
-**LucasBenitez247/LucasBenitez247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Estudiante de Licenciatura en Sistemas | Desarrollador Full-Stack
 
-Here are some ideas to get you started:
+Desde Corrientes, Argentina, siempre buscando aprender y mejorar mis habilidades en el desarrollo de software. Me apasiona construir aplicaciones robustas, desde el diseño de la arquitectura hasta la implementación de seguridad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Sobre mí
+-  Actualmente cursando la **Licenciatura en Sistemas**.
+
+
+### Tecnologías y Herramientas
+- **Backend:** Java, Spring Boot, C#, .NET
+- **Frontend:** React
+
+### Conectemos
+- [LinkedIn](lucas-emmanuel-benitez)
+- **Email:** benitezlucas51@gmail.com
