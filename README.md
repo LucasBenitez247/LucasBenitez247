@@ -5,7 +5,7 @@
 Desde Corrientes, Argentina, siempre buscando aprender y mejorar mis habilidades en el desarrollo de software. Me apasiona construir aplicaciones robustas, desde el diseño de la arquitectura hasta la implementación de seguridad.
 
 ###  Sobre mí
--  Actualmente cursando la **Licenciatura en Sistemas**.
+-  Actualmente estudiante avanzado de  **Licenciatura en Sistemas** en la UNNE.
 
 
 ### Tecnologías y Herramientas
