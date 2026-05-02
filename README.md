@@ -5,7 +5,7 @@
 Desde Corrientes, Argentina, siempre buscando aprender y mejorar mis habilidades en el desarrollo de software. Me apasiona construir aplicaciones robustas, desde el diseño de la arquitectura hasta la implementación de seguridad.
 
 ###  Sobre mí
--  Actualmente estudiante avanzado de  **Licenciatura en Sistemas** en la UNNE.
+-  Actualmente cursando 4to año de la **Licenciatura en Sistemas** en la UNNE.
 
 
 ### Tecnologías y Herramientas
@@ -13,5 +13,5 @@ Desde Corrientes, Argentina, siempre buscando aprender y mejorar mis habilidades
 - **Frontend:** React
 
 ### Conectemos
-- [LinkedIn](lucas-emmanuel-benitez)
+- [LinkedIn](www.linkedin.com/in/lucas-emmanuel-benitez)
 - **Email:** benitezlucas51@gmail.com
