@@ -13,5 +13,5 @@ Desde Corrientes, Argentina, siempre buscando aprender y mejorar mis habilidades
 - **Frontend:** React
 
 ### Conectemos
-- **LinkedIn:** lucas-emmanuel-benitez
+- **LinkedIn:** www.linkedin.com/in/lucas-emmanuel-benitez
 - **Email:** benitezlucas51@gmail.com
